@@ -1,5 +1,5 @@
 # Wide-Node-RED
-Change Node-RED forum pages to be wide
+Change [Node-RED forum pages](https://discourse.nodered.org/) to be wide
 
 Installation
 ------------
