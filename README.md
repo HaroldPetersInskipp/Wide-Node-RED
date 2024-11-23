@@ -1,6 +1,14 @@
 # Wide-Node-RED
 Userscript to change [Node-RED forum pages](https://discourse.nodered.org/) to be wide
 
+Screenshots
+------------
+### Before:
+<img alt="screenshot-1" width="1024px" src="screenshot-1.png" />
+
+### After:
+<img alt="screenshot-2" width="1024px" src="screenshot-2.png" />
+
 Installation
 ------------
 
